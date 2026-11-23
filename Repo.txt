@@ -4,4 +4,4 @@ INFORMASI REPOSITORI WEBSITE
 
 URL Repositori	: https://github.com/Davidrido/Latihan-Menggunakan-Bootstrap.git
 Branch Utama 	: main
-Branch Tugas	: Bootstrap-Web
+Branch Tugas	: Web-Js
